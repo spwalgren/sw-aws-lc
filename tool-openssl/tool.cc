@@ -41,6 +41,7 @@ static const std::array<Tool, 23> kTools = {{
     {"x509", X509Tool},
 }};
 
+// test co
 static void usage(const std::string &name) {
   std::cout << "Usage: " << name << " COMMAND\n\n";
   std::cout << "Available commands:\n";
